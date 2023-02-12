@@ -1,0 +1,12 @@
+kenworth_w900
+cummins_isx_sp_rm
+brake.effects
+park_brake
+stick_blinker
+reverse
+retarder
+air_compressor
+air_horns
+lift_axle
+null
+

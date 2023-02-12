@@ -1,0 +1,14 @@
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{c66dc290-3dde-4bda-ae31-a22d97a62753} bank:/rain
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{a2c67e97-fa1d-44cd-b3df-16bad7838bec} event:/outside
+{55d97904-21c2-474f-b04f-92745e3cc389} event:/windshield
+{2124cb50-e20f-4e26-b391-e49e8645e833} event:/wipers_down
+{aabaf0ab-29af-4868-9090-247ef08284ca} event:/wipers_up
+{e2275c9a-60c3-4822-ac1f-4d728f76d384} parameter:/daytime
+{0e42ff18-6159-4e14-bf66-83b75a0ef27f} parameter:/dry_state
+{d127dce3-86ac-4f53-b43e-cad4bd7d3822} parameter:/rain_int
+{064e979d-1934-48dc-afd4-878a29dcc237} parameter:/rain_intensity
+{e066374f-5e5b-4463-96e9-313c49d45724} parameter:/wnd_left
+{2f6538c5-e771-4dde-bbf8-08d07904b144} parameter:/wnd_right

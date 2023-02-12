@@ -1,0 +1,8 @@
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{157615c5-f57d-408f-8f93-87eaaa04b4ab} bank:/stick_blinker
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{ef0877f2-ba09-411f-8f32-f431fc7e726e} bus:/cabin
+{7fe623a8-a2f0-4ba8-ad2a-9cad68432851} bus:/cabin/interior
+{438c1e2b-72a0-4e01-b13c-c35e369a0c8d} event:/stick_blinker
+{d55c5862-7896-44e0-8792-c443dc1c3c0e} event:/stick_blinker_off

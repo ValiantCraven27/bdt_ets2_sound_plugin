@@ -1,0 +1,7 @@
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{9717c70e-9c8f-4396-babb-393733e4180b} bank:/trailer_coupling
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{d8d9330a-e2b2-4b37-816d-f0109b428471} bus:/outside/exterior/truck_effects
+{b6344e88-8a6f-4bbf-a563-6568c0aa0544} event:/attach
+{7745474e-cdbb-430c-bb9d-c09b64c5883c} parameter:/Distance
