@@ -1,9 +1,0 @@
-{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
-{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
-{d7504a38-eb56-4528-83e0-3d0804d1747f} bank:/thunder
-{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
-{6d587f30-8142-44d2-917b-cbabedb2aa82} bus:/outside
-{5bddde98-7604-4833-81d7-df0b307a4295} bus:/outside/exterior
-{0b954e93-6f9f-4ef0-852e-bab956b95778} bus:/outside/exterior/world
-{c7e2d111-abf6-4d6e-8230-da6f4dff05f6} event:/thunder
-{e2275c9a-60c3-4822-ac1f-4d728f76d384} parameter:/daytime
