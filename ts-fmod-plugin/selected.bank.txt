@@ -8,4 +8,5 @@ retarder
 air_compressor
 air_horns
 trailer_coupling
+rain
 
