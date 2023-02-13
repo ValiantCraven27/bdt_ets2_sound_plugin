@@ -1,8 +1,0 @@
-{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
-{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
-{52899ef3-1d18-44fa-bcf7-5b6652fea4a9} bank:/weigh_station
-{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
-{ef0877f2-ba09-411f-8f32-f431fc7e726e} bus:/cabin
-{7fe623a8-a2f0-4ba8-ad2a-9cad68432851} bus:/cabin/interior
-{4151745b-a8bb-4f98-b42d-9ac7b261f7a2} event:/green
-{eda951d6-b51a-4a64-9504-f7e8fb47669d} event:/red
