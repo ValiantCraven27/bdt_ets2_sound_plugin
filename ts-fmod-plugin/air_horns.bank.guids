@@ -1,0 +1,15 @@
+{a7bf5fce-edbe-4966-bbe1-e80563d7276a} bank:/air_horns
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{fdbf76b0-6393-4c61-9a2c-7cbc64397dc6} event:/grover
+{2da263c7-b4d8-4218-83f3-7ad3792d9e55} event:/train
+{59ef2ec9-437d-4d50-a5c5-92c675b73c6b} parameter:/Distance
+{efa4f115-e095-4b65-997f-24ddd351d0b3} parameter:/cabin_out
+{ec7111d9-a2e3-459d-9dd0-346adbe2e2e5} parameter:/cabin_rot
+{e8bc8dc3-8f8f-43d7-a94f-704490fa3876} parameter:/cabin_type
+{e2275c9a-60c3-4822-ac1f-4d728f76d384} parameter:/daytime
+{08f4a151-a6fc-4121-baf2-a8be6c224b88} parameter:/play
+{afd3c6cf-765e-4691-9bdc-7b42e0fc0336} parameter:/surr_type
+{e066374f-5e5b-4463-96e9-313c49d45724} parameter:/wnd_left
+{2f6538c5-e771-4dde-bbf8-08d07904b144} parameter:/wnd_right

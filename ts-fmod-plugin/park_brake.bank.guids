@@ -1,0 +1,13 @@
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{a7dc09a9-c699-4da8-a86c-ea421d7bea55} bank:/park_brake
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{738ebf8e-5ac4-4b02-81e6-bc9b1be450fd} event:/interior/stick_park_brake
+{89cc87da-7adb-4f0b-9724-523e12db8eaf} event:/interior/stick_park_brake_off
+{efa4f115-e095-4b65-997f-24ddd351d0b3} parameter:/cabin_out
+{ec7111d9-a2e3-459d-9dd0-346adbe2e2e5} parameter:/cabin_rot
+{e8bc8dc3-8f8f-43d7-a94f-704490fa3876} parameter:/cabin_type
+{e2275c9a-60c3-4822-ac1f-4d728f76d384} parameter:/daytime
+{afd3c6cf-765e-4691-9bdc-7b42e0fc0336} parameter:/surr_type
+{e066374f-5e5b-4463-96e9-313c49d45724} parameter:/wnd_left
+{2f6538c5-e771-4dde-bbf8-08d07904b144} parameter:/wnd_right

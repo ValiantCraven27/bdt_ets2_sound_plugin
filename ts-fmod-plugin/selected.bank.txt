@@ -7,6 +7,5 @@ reverse
 retarder
 air_compressor
 air_horns
-lift_axle
-null
+trailer_coupling
 

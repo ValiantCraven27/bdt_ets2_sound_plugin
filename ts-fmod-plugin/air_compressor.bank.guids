@@ -1,0 +1,7 @@
+{dc38a5a9-dfeb-4f7f-b176-8001eca9d289} bank:/air_compressor
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{0dfa21b4-378c-4b84-988e-62b9423ed3b0} event:/air_cutoff
+{e066374f-5e5b-4463-96e9-313c49d45724} parameter:/wnd_left
+{2f6538c5-e771-4dde-bbf8-08d07904b144} parameter:/wnd_right
